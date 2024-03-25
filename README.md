@@ -1,5 +1,5 @@
 # Wellfit Fitness Application
-![Wellfit Fitness App Home Page](./src/assets/images/Home.png)
+![Wellfit Fitness App Home Page](./front_stack/src/assets/images/Home.png)
 **Elevating your fitness**
 
 **Author:** Isaiah Essien  
@@ -28,9 +28,8 @@ Wellfit Fitness is a revolutionary fitness application aimed at redefining perso
 - Open [http://localhost:3000](http://localhost:3000) to view the app in your browser
 
 ## Screenshots
-![Wellfit Fitness App Home Page](./src/assets/images/Home.png)
-![Wellfit Fitness App Exercises Page](./src/assets/images/Exercise%20page.png)
-![Wellfit Fitness App Exercise Details Page](./src/assets/images/Target%20exercise.png)
+![Wellfit Fitness App Exercises Page](./front_stack/src/assets/images/Exercise%20page.png)
+![Wellfit Fitness App Exercise Details Page](./front_stack/src/assets/images/Target%20exercise.png)
 
 ## System Requirements
 - Fetch over 1000 exercises and paginate them
