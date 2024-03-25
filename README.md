@@ -19,7 +19,7 @@ Wellfit Fitness is a revolutionary fitness application aimed at redefining perso
 
 ## Installation
 1. Clone the repository
-2. Navigate to \FitnessApp\front_stack
+2. cd into Wellfit-FitnessApp/front_stack
 3. Run `npm install --legacy-peer-deps` to install all dependencies
 4. Run npm start
 
