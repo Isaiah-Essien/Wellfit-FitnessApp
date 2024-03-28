@@ -3,13 +3,13 @@
 **Elevating your fitness**
 
 **Author:** Isaiah Essien  
-**Date:** January 29th, 2024  
+**Date:** March 26th, 2024
 **Institution:** African Leadership University  
 
 ## Overview
 Wellfit Fitness is a revolutionary fitness application aimed at redefining personal fitness experiences and contributing to users' overall well-being. The app focuses on workouts and exercises, offering a comprehensive solution to address challenges in the fitness landscape and enhance user engagement through innovative features.
 
-## Requirements
+## Requirements For Setup
 - Node.js and npm installed
 - React.js
 - Material-UI library
